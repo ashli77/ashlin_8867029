@@ -1,4 +1,4 @@
-Your Name : Ashlin Peediyakkal Michael
+Your Name : Ashlin Michael
 
 Project Title : Lab 3
 
